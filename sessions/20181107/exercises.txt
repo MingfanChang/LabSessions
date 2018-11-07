@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+Using lists and sets
+--------------------------------------------------------------------------------
+
+Based on exercises from the NLTK book chapter 1:
+
+1. What is the difference between the following two lines? Which one will give a larger value?
+
+>>> sorted(set(w.lower() for w in some_list_of_words))
+>>> sorted(w.lower() for w in set(some_list_of_words))
+
+2. Using list addition, and the set and sorted operations, compute the vocabulary of a list of sentences.
+
+3. Write the slice expression that extracts the last three words of a string.
