@@ -12,3 +12,4 @@ Based on exercises from the NLTK book chapter 1:
 2. Using list addition, and the set and sorted operations, compute the vocabulary of a list of sentences.
 
 3. Write the slice expression that extracts the last three words of a string.
+dfgh
